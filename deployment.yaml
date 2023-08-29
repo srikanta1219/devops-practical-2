@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: container-sriapp
-        image: srikanta1219/sri-app:latest
+        image: srikanta1219/sri-app:
         ports:
         - containerPort: 80
 ---
